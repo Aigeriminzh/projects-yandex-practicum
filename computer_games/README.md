@@ -25,8 +25,8 @@
 
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib.pyplot*
-*seaborn*
-*numpy*
-*stats*
+- *pandas*
+- *matplotlib.pyplot*
+- *seaborn*
+- *numpy*
+- *stats*
